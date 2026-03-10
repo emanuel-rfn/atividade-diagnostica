@@ -1,7 +1,7 @@
 # atividade-diagnostica
 Aluno: Emanuel Pereira Rufino
 
-Disciplina: DesenvolvimentO Web
+Disciplina: Desenvolvimento Web
 
 Atividade diagnóstica
 
